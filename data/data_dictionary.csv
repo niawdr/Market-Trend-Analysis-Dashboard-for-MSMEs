@@ -1,0 +1,18 @@
+Column Name;Description;Data Type;
+produk;Nama produk yang dijual;object;
+harga;Harga produk dalam Rupiah;int64;
+rating_produk;Rating rata-rata produk (1–5);float64;
+total_rating_5;Jumlah ulasan dengan rating 5;int64;
+total_rating_4;Jumlah ulasan dengan rating 4;int64;
+total_rating_3;Jumlah ulasan dengan rating 3;int64;
+total_rating_2;Jumlah ulasan dengan rating 2;int64;
+total_rating_1;Jumlah ulasan dengan rating 1;int64;
+total_review_produk;Total keseluruhan review produk;int64;
+jumlah_terjual;Total penjualan produk;int64;
+sub_kategori;Sub-kategori produk;object;
+toko;Nama toko yang menjual produk;object;
+lokasi;Lokasi toko;object;
+rating_toko;Rating rata-rata toko (1–5);float64;
+total_review_toko;Total ulasan untuk toko;int64;
+url_produk;URL halaman produk;;
+kategori;Kategori utama produk;object;
